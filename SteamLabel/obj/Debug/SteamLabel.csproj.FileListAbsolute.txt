@@ -1,0 +1,10 @@
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\bin\Debug\SteamLabel.exe.config
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\bin\Debug\SteamLabel.exe
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\bin\Debug\SteamLabel.pdb
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.csproj.AssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.Form1.resources
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.Properties.Resources.resources
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.csproj.GenerateResource.cache
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.exe
+C:\Users\Mirko\Documents\GitHub\C#\SteamLabel\SteamLabel\obj\Debug\SteamLabel.pdb
